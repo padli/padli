@@ -3,7 +3,7 @@
 ### <div align="center">I'm Padlli a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Golang
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
