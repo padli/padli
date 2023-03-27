@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Padlli a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="left">I'm Padlli a full-time full-stack freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
 - 🌱 I’m currently learning Golang
